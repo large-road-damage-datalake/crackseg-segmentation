@@ -26,7 +26,7 @@
   "imaging_setup": {
     "camera": "On-board vehicle-mounted RGB camera",
     "camera_viewpoint": [
-      "front-view"
+      "wide-view"
     ],
     "resolution": "3840x2160",
     "lighting_conditions": "Outdoor scenes across multiple road types",
@@ -199,7 +199,7 @@
     "crackseg",
     "png-masks",
     "china",
-    "front-view",
+    "wide-view",
     "on-board"
   ],
   "source_publication": {

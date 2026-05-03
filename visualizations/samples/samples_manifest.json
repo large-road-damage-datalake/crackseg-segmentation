@@ -1,0 +1,256 @@
+{
+  "samples": [
+    {
+      "file": "sample_01_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/val\\13_Trim_001198.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 2,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_01_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_02_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/train\\DJI_0199_006282.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 2,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_02_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_03_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/val\\13_Trim_000152.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 3,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_03_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_04_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/train\\DJI_0207_007523.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 21,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_04_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_05_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/train\\DJI_0202_004188.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 5,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_05_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_06_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/train\\DJI_0212_000644.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 3,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_06_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_07_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/train\\DJI_0212_008515.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 10,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_07_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_08_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/train\\DJI_0216_006919.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 3,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_08_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_09_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/train\\DJI_0214_002585.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 10,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_09_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    },
+    {
+      "file": "sample_10_c1_crack.jpg",
+      "source": "D:/PhD/Datasets/segmentation/CrackSeg/images/train\\DJI_0210_004435.jpg",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 48,
+      "image_size": {
+        "width": 1280,
+        "height": 720
+      },
+      "resized_from": {
+        "width": 3840,
+        "height": 2160
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_10_c1_crack_annotation.polygons.json",
+      "class_map": {
+        "255": "crack"
+      },
+      "slider_ready": true
+    }
+  ],
+  "count": 10,
+  "slider_pairs": 10
+}

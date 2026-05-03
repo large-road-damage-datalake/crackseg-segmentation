@@ -1,0 +1,52 @@
+{
+  "total_images": 3540,
+  "total_annotations": 27164,
+  "total_classes": 1,
+  "annotated_images": 2832,
+  "annotation_coverage": 0.8,
+  "image_resolution_histogram": {
+    "3840x2160": 3540
+  },
+  "resolution_details": [
+    {
+      "resolution": "3840x2160",
+      "count": 3540
+    }
+  ],
+  "splits_breakdown": {
+    "training": {
+      "images": 2478,
+      "annotations": 25740,
+      "annotated_images": 2478,
+      "annotation_coverage": 1.0,
+      "classes": {
+        "crack": 25740
+      },
+      "image_resolution_histogram": {
+        "3840x2160": 2478
+      }
+    },
+    "validation": {
+      "images": 354,
+      "annotations": 1424,
+      "annotated_images": 354,
+      "annotation_coverage": 1.0,
+      "classes": {
+        "crack": 1424
+      },
+      "image_resolution_histogram": {
+        "3840x2160": 354
+      }
+    },
+    "testing": {
+      "images": 708,
+      "annotations": 0,
+      "annotated_images": 0,
+      "annotation_coverage": 0.0,
+      "classes": {},
+      "image_resolution_histogram": {
+        "3840x2160": 708
+      }
+    }
+  }
+}

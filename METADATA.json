@@ -107,7 +107,7 @@
     "n_images": 3540,
     "n_annotations": 27164,
     "n_images_with_annotations": 2832,
-    "average_annotations_per_image": 7.673446327683616,
+    "average_annotations_per_image": 9.591807909604519,
     "dataset_size": "7.11 GB",
     "dataset_size_bytes": 7636945478,
     "dataset_file_count": 6372,
@@ -123,7 +123,8 @@
         "annotation_coverage": 1.0,
         "dataset_size": "5.13 GB",
         "dataset_size_bytes": 5510701000,
-        "dataset_file_count": 4956
+        "dataset_file_count": 4956,
+        "annotated": true
       },
       "validation": {
         "n_images": 354,
@@ -132,7 +133,8 @@
         "annotation_coverage": 1.0,
         "dataset_size": "673.17 MB",
         "dataset_size_bytes": 705867082,
-        "dataset_file_count": 708
+        "dataset_file_count": 708,
+        "annotated": true
       },
       "testing": {
         "n_images": 708,
@@ -141,9 +143,11 @@
         "annotation_coverage": 0.0,
         "dataset_size": "1.32 GB",
         "dataset_size_bytes": 1420377396,
-        "dataset_file_count": 708
+        "dataset_file_count": 708,
+        "annotated": false
       }
-    }
+    },
+    "n_images_in_annotated_splits": 2832
   },
   "geographic_coverage": {
     "countries": [
@@ -154,32 +158,32 @@
         "annotation_coverage": 0.8
       }
     ],
-    "temporal_scope": "Images captured in Shandong Province, China; paper under review"
+    "temporal_scope": "Images captured in Shandong Province, China; published 2024"
   },
   "quality_assurance": {
-    "annotation_quality": "Pixel-level masks annotated in CVAT by professional labelers and verified",
+    "annotation_quality": "Pixel-level binary crack masks annotated in CVAT by professional labelers and verified across 2,832 training and validation images (plus 708 held-out test images without public masks)",
     "inter_annotator_agreement": "Not reported",
-    "review_status": "Dataset release under review"
+    "review_status": "Published research dataset"
   },
   "authors": [
     {
       "name": "Wei Zhou",
-      "affiliation": "Southeast University",
+      "affiliation": "School of Transportation and the Intelligent Transportation System Research Center, Southeast University, Nanjing, China",
       "role": "Dataset Creator"
     },
     {
       "name": "Hongpu Huang",
-      "affiliation": "Southeast University",
+      "affiliation": "School of Transportation, Southeast University, Nanjing, China",
       "role": "Dataset Creator"
     },
     {
       "name": "Hancheng Zhang",
-      "affiliation": "Southeast University",
+      "affiliation": "School of Transportation, Southeast University, Nanjing, China",
       "role": "Dataset Creator"
     },
     {
       "name": "Chen Wang",
-      "affiliation": "Southeast University",
+      "affiliation": "School of Transportation and the Intelligent Transportation System Research Center, Southeast University, Nanjing, China",
       "role": "Dataset Creator"
     }
   ],
@@ -205,8 +209,8 @@
   "source_publication": {
     "dataset_doi": "Not provided",
     "article_doi": "10.1109/TITS.2024.3475371",
-    "article_title": "Teaching Segment-Anything-Model Domain-specific Knowledge for Road Crack Segmentation from On-board Cameras",
-    "journal": "IEEE Transactions on Intelligent Transportation Systems (under review)",
+    "article_title": "Teaching Segment-Anything-Model Domain-Specific Knowledge for Road Crack Segmentation From On-Board Cameras",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
     "year": 2024
   }
 }

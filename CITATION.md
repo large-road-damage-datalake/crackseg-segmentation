@@ -8,7 +8,7 @@ TRMetaGroup. CrackSeg: Large-scale on-board road crack segmentation dataset. htt
 
 ## Paper
 
-Teaching Segment-Anything-Model Domain-specific Knowledge for Road Crack Segmentation from On-board Cameras. Submitted to IEEE Transactions on Intelligent Transportation Systems.
+Zhou, W., Huang, H., Zhang, H., & Wang, C. (2024). Teaching Segment-Anything-Model Domain-Specific Knowledge for Road Crack Segmentation From On-Board Cameras. IEEE Transactions on Intelligent Transportation Systems, 25(12), 20588-20601. doi: 10.1109/TITS.2024.3475371
 - https://ieeexplore.ieee.org/document/10720639
 
 ## Package Citation
